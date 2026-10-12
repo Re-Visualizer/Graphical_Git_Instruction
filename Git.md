@@ -186,9 +186,9 @@ git push origin master #以后push，注意跟第一次仓库的push指令不太
 
 本地Git Repository与远端Repository，有多种的建立交通的方式
 
-之前，我们已经展示了一种：本地已有Git Repository传送到远端空Repository中 的方法
+之前，我们已经展示了一种：**本地已有Git Repository传送到远端空Repository中 的方法**
 
-现在还有一种新的方法，适用于初始无本地Git Repository文件夹 + 无远端Repository
+**现在还有一种新的方法，适用于初始无本地Git Repository文件夹 + 无远端Repository**
 
 选择在以下平台上共享项目，然后选择Github，给仓库起名为2nd_github_Repository_method，然后将`未初始提交添加文件`默认的文件全部取消，这样就可以在远端创建一个可以从你本地Git中推送的空Repository
 
