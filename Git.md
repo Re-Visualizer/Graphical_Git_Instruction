@@ -8,13 +8,6 @@
 >
 > 建议先创造一个Github账号
 >
-> 当你第一次用Visual Studio Code commit的时候，会弹出一个
->
-> There are no staged changes to commit. 
->
-> Would you like to stage all your changes and commit them directly? 
->
-> 不想折腾的话直接选 `always` 即可 
 
 首先跳转[Git官网](https://git-scm.com/)（ctrl + 鼠标左键点击），下载Git
 
