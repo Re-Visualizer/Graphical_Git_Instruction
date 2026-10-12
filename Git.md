@@ -42,7 +42,7 @@ git config --global user.email shen_ni@163.com
 >
 > 这时候返回cmd或者powershell都可以，输入这两行命令即可
 >
-> 这里我设置的是自己的，爸爸妈妈们注意不要直接粘我的到你们CMD中，实在粘了，再次输入即可覆盖
+> 这里我设置的是自己的，家人们注意不要直接粘我的到你们CMD中，实在粘了，再次输入即可覆盖
 
 ------
 
@@ -116,6 +116,18 @@ git commit -m "init commit" #提交本次修改并添加简介
 
 > 6分钟之前，请忽略哈，有时差是正常嘟，不是我不熟练:heart::heart::heart::anger:
 
+
+
+### 远程Repository1
+
+以简单上手的方式创建远程Repository需要在PycharmIDE中登录Github账号
+
+> 也有其他方法，不过这种最简单啦
+
+在设置中选择版本控制-->Github-->添加账户-->登录Github，之后会弹出一个授权浏览器界面，我这里之前浏览器有登陆过，所以直接授权了，如果你没登陆过，应该也不难，照提示做就行了-->此时Github账号就被记录到了IDE中，这样我们以后就拥有远程Repository修改的权限了，拥有了权限接下来就是创建你要用的Repository了
+
+![16](./16.png)
+
 此时返回Github--> 创建新的Repository，按照下面的配置新的Repository初始化设置
 
 ![8](./8.png)
@@ -170,7 +182,7 @@ git push origin master #以后push，注意跟第一次仓库的push指令不太
 
 ------
 
-### 远程Repository
+### 远程Repository2
 
 本地Git Repository与远端Repository，有多种的建立交通的方式
 
