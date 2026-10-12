@@ -138,9 +138,10 @@ git commit -m "init commit" #提交本次修改并添加简介
 
 部署完成后我们查看一下远程Repository的变化，这样我们的远程Repository部署就完成了，大家后面就可以直接在Pycharm中直接commit和push了
 
-```cmd
+```powershell
 # 在手动创建远端Repository之后
-git remote add origin git@github.com: Visualizer/Guide.git #绑定URL
+git remote add origin https://github.com/Re-Visualizer/Graphical_Git_Instruction.git#绑定URL
+# git remote add origin git@github.com: Visualizer/Guide.git #绑定URL
 git push -u origin master #第一次push
 ```
 
